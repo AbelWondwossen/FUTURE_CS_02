@@ -1,0 +1,24 @@
+Message-ID: <5523891.234.1773891345678.JavaMail.UPSWEB$@10.98.76.54>
+Date: Mon, 22 Mar 2026 09:45:00 +0000
+From: "UPS Delivery" <notifications@ups.com>
+To: customer@gmail.com
+Subject: Your package could not be delivered
+Reply-To: support@ups-delivery-service.com
+Return-Path: <bounce@ups-delivery-service.com>
+Authentication-Results: spf=fail (ups.com: 103.45.67.89 is not permitted); dkim=none; dmarc=fail
+Received: from mail.fake-ups-server.com (103.45.67.89) by mx.gmail.com; Mon, 22 Mar 2026 09:45:02 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+UPS Delivery Notification
+
+Your package (#US-4491827-02) could not be delivered due to an incomplete address.
+
+Please confirm your shipping information within 12 hours to avoid return to sender:
+
+Update Address: [Click Here]
+
+Tracking Number: 1Z9999X1234567890
+
+Thank you,
+UPS Customer Service

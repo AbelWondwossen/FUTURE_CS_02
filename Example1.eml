@@ -1,0 +1,23 @@
+Message-ID: <16233445.789.1773817345678.JavaMail.MWWVACCAACC104$@10.20.30.40>
+Date: Mon, 16 Mar 2026 09:47:00 +0000
+From: "Abel Wondwossen, CEO" <abel.wondwossen@company.com>
+To: accounts.payable@company.com
+Subject: URGENT: Wire Transfer Required
+Reply-To: abel.wondwossen.personal@gmail.com
+Return-Path: <bounce@malicious-server.ru>
+Authentication-Results: spf=fail (company.com: 185.142.53.102 is not permitted); dkim=fail; dmarc=fail
+Received: from mail.phishing-server.ru (185.142.53.102) by mx.company.com; Mon, 16 Mar 2026 09:47:12 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+I am in a client meeting and need an immediate wire transfer of $24,850 to secure a new contract. I cannot access the banking portal right now. Please process payment to the account below and send confirmation to my personal email once completed.
+
+Bank: Chase
+Account Name: Synergy Consulting LLC
+Account Number: 7843221190
+Routing: 021000021
+
+I will follow up with paperwork tomorrow.
+
+Regards,
+James

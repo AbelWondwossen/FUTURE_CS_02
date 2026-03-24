@@ -1,0 +1,25 @@
+Message-ID: <9981234.567.1773891789012.JavaMail.NFLXWEB$@10.23.45.67>
+Date: Mon, 22 Mar 2026 14:30:00 +0000
+From: "Netflix" <account-security@netflix.com>
+To: user@gmail.com
+Subject: Your account has been suspended
+Reply-To: account-security@netflix-verify.com
+Return-Path: <bounce@netflix-verify.com>
+Authentication-Results: spf=fail (netflix.com: 185.130.5.253 is not permitted); dkim=none; dmarc=fail
+Received: from mail.phishing-server.com (185.130.5.253) by mx.gmail.com; Mon, 22 Mar 2026 14:30:04 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Valued Customer,
+
+We have detected unusual activity on your account and have temporarily suspended your access to protect your information.
+
+To restore your account, please verify your payment information within 24 hours:
+
+Verify Account Now
+
+If you do not complete this verification, your account will be permanently closed.
+
+Thank you for being a Netflix member.
+
+Netflix Account Team
